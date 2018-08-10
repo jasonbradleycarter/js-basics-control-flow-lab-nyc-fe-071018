@@ -21,8 +21,8 @@ function ternaryCheckCity(city) {
   }
 }
 
-// function switchOnCharmFromTip(tip)
-//   switch(tip) {
-//     case 'Thank you so much.';
-//   }
+function switchOnCharmFromTip(tip)
+  switch(tip) {
+    case 'Thank you so much.';
+  }
 
