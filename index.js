@@ -22,7 +22,7 @@ function ternaryCheckCity(city) {
 }
 
 function switchOnCharmFromTip(tip)
-  switch (tip) {
+  switch(tip) {
     return 'Thank you so much.';
   }
 
