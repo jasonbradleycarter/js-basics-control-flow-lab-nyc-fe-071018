@@ -12,3 +12,4 @@ function scuberGreetingForFeet(feet) {
   }
 }
 
+function ternary
